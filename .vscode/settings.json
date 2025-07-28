@@ -1,3 +1,15 @@
 {
-  "chat.tools.autoApprove": true
+  "chat.tools.autoApprove": false,
+  "chat.tools.autoApproveByTool": {
+    "run_in_terminal": true,
+    "git": true,
+    "read_file": true,
+    "write_file": false,
+    "create_file": false,
+    "replace_string_in_file": false,
+    "insert_edit_into_file": false,
+    "list_dir": true,
+    "file_search": true,
+    "grep_search": true
+  }
 }
