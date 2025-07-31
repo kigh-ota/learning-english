@@ -4,15 +4,15 @@
 
 ## 🗓 Week 1：英語リスニング基礎スケジュール（1日15分）
 
-| 曜日 | タスク          | 教材                                                                                                                                             | 所要時間 | 内容                            |
-| -- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------------------------- |
-| 月  | 🎧 ディクテーション  | [BBC 6 Minute English: “How Honest Are We?”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-220825)                        | 約15分 | ①1分だけ再生→②書き取り→③スクリプト確認と単語メモ   |
-| 火  | 📢 シャドーイング入門 | [TED-Ed: “What makes volcanoes erupt?”](https://ed.ted.com/lessons/what-makes-volcanoes-erupt-steven-anderson)（最初の30秒だけ）                       | 約15分 | ①聞く→②真似る→③録音して自分の発音を聞いてみる     |
-| 水  | 🧠 語彙・表現ノート  | 月・火で出た聞き取れなかった単語・フレーズを記録                                                                                                                       | 約15分 | ①5個書く→②意味調べ→③声に出す（2回ずつ）       |
-| 木  | 🎧 ディクテーション② | [VOA Learning English: “How to Make Small Talk”](https://learningenglish.voanews.com/a/how-to-make-small-talk/6798722.html)                    | 約15分 | ①1分だけ再生→②書き取り→③音の癖に注目（リエゾンなど） |
-| 金  | 📢 音読＋録音     | [TED-Ed: “Why should you read Crime and Punishment?”](https://ed.ted.com/lessons/why-should-you-read-crime-and-punishment-alex-gendler)（冒頭30秒） | 約15分 | ①ゆっくり音読→②録音→③TEDの音と比較してみる     |
-| 土  | 📝 1週間まとめ・復習 | これまでの語彙・聞き取れなかった表現を復習                                                                                                                          | 約15分 | ①表現ノートを見直し→②音声で再確認 or 読み上げ    |
-| 日  | 🎬 リラックス視聴   | \[NetflixやYouTube（字幕あり）で好きな動画5分]                                                                                                               | 約15分 | ①テーマ自由！②字幕つきOK。英語音の「慣れ」が目的    |
+| 曜日 | タスク              | 教材                                                                                                                                             | 所要時間 | 内容                                      |
+| -- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------- |
+| 月  | 🎧 ディクテーション      | [BBC 6 Minute English: “How Honest Are We?”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-220825)                        | 約15分 | ①1分だけ再生→②書き取り→③スクリプト確認と単語メモ             |
+| 火  | 📢 シャドーイング入門     | [TED-Ed: “What makes volcanoes erupt?”](https://ed.ted.com/lessons/what-makes-volcanoes-erupt-steven-anderson)（最初の30秒だけ）                       | 約15分 | ①聞く→②真似る→③録音して自分の発音を聞いてみる               |
+| 水  | 🎧 ディクテーション②     | [BBC 6 Minute English: “Why do we touch our faces so much?”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-200402)        | 約15分 | ①1分だけ再生→②書き取り→③機能語や弱音に注目                |
+| 木  | 📢 シャドーイング応用     | [TED-Ed: “Why should you read Crime and Punishment?”](https://ed.ted.com/lessons/why-should-you-read-crime-and-punishment-alex-gendler)（冒頭30秒） | 約15分 | ①音声だけでシャドーイング→②あとでスクリプトを確認→③もう1度シャドーイング |
+| 金  | 🗣 クイック発音チャレンジ   | [Rachel’s English: “How to Pronounce ‘Can’ and ‘Can’t’”](https://www.youtube.com/watch?v=9Z2GZ5rPH7w)                                          | 約15分 | ①動画で発音ルール確認→②まねして発音→③2語の区別がつくか自分でチェック   |
+| 土  | 🧘‍♀️ 自由・リラックス英語 | [YouTube: Kurzgesagt（好みの動画を選ぶ）](https://www.youtube.com/c/inanutshell)                                                                         | 約15分 | ①自由に英語に触れる（字幕OK）②内容が気に入れば1フレーズだけ真似してみる  |
+| 日  | 🔁 おさらい or 休息    | 今週使った素材のうち、気に入ったものを「もう一度だけやる」 or ゆっくり休む                                                                                                        | 約15分 | ①再ディクテ or 再シャドーイング→②上達実感 or 難しさ再確認      |
 
 ## ✍️【2】ディクテーションのやり方（週3）
 
@@ -24,9 +24,67 @@
   弱音化（例：of → /əv/）
   速さ・アクセントなど
 
+成果物：「聞き取れなかった理由」と「語彙・音の気づき」
+
+- 聞き取れなかった語・表現のリスト
+- 新出語彙
+
+## シャドーイングのやり方
+
+- 🎯 ステップ1：スクリプト見ながら一文ずつシャドーイング（最初の数回）
+  - 目的：音と文字の対応をつかむ
+  - ✅ 使い方：英文を目で追いながら、音声の直後に発話
+  - 💡 コツ：冠詞や助動詞など「聞こえにくい語」に線を引きながらやると◎
+- 🎯 ステップ2：スクリプトを“見ないで”通しシャドーイング
+  - 目的：純粋なリスニング力・反応速度を鍛える
+  - ✅ 使い方：音だけを頼りに追いかける（＝本番に近い）
+  - 💡 うまく言えなかった部分は後でスクリプトを見て確認 → 弱点発見の瞬間
+- 🎯 ステップ3：再びスクリプトを見て音読・復習＋気づきチェック
+  - 目的：正確な構文・語順・発音を整理する
+  - ✅ 「最終確認」として1回しっかり読んで締め
+
+各ステップ5分ずつとか。
+
+成果物：「発音・音のリズムの再現性」と「音に慣れた英文（＝自分の武器文）」
+
+- スムーズに真似できなかったフレーズのリスト
+- 録音ファイル（あれば） or 自己評価メモ
+- “自分のものにした英文”リスト
+- 気づきメモ（音の変化・抑揚など）
+
 # 記録
 
-## 2025/07/29 dictation
+## 2025/07/29 shadowing
+
+[TED-Ed: “What makes volcanoes erupt?”](https://ed.ted.com/lessons/what-makes-volcanoes-erupt-steven-anderson)
+
+In February of 1942, Mexican farmer Dionisio Pulido
+0:12
+thought he heard thunder coming from his cornfield.
+0:15
+However, the sound wasn’t coming from the sky.
+0:19
+The source was a large, smoking crack emitting gas and ejecting rocks.
+0:25
+This fissure would come to be known as the volcano Paricutin,
+0:29
+and over the next 9 years, its lava and ash would cover over 200 square km.
+
+### スムーズに真似できなかったフレーズのリスト
+
+- fissure
+  - フィッシュアかと思ったフィジュアと発音された
+- come to be known as ...
+- its lava and ash would cover ...
+  - its が it's だと勘違いして意味で混乱した
+- 200 square km
+  - 発音しにくい
+
+### Vocabulary
+
+- fissure: 裂け目・亀裂
+
+## 2025/07/28 dictation
 
 https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-170727
 
