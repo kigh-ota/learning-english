@@ -8,7 +8,7 @@
 | -- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------- |
 | 月  | 🎧 ディクテーション      | [BBC 6 Minute English: “How Honest Are We?”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-220825)                        | 約15分 | ①1分だけ再生→②書き取り→③スクリプト確認と単語メモ             |
 | 火  | 📢 シャドーイング入門     | [TED-Ed: “What makes volcanoes erupt?”](https://ed.ted.com/lessons/what-makes-volcanoes-erupt-steven-anderson)（最初の30秒だけ）                       | 約15分 | ①聞く→②真似る→③録音して自分の発音を聞いてみる               |
-| 水  | 🎧 ディクテーション②     | [BBC 6 Minute English: “Why do we touch our faces so much?”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-200402)        | 約15分 | ①1分だけ再生→②書き取り→③機能語や弱音に注目                |
+| 水  | 🎧 ディクテーション②     | [BBC 6 Minute English: “Touring bands and climate change”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-200402)        | 約15分 | ①1分だけ再生→②書き取り→③機能語や弱音に注目                |
 | 木  | 📢 シャドーイング応用     | [TED-Ed: “Why should you read Crime and Punishment?”](https://ed.ted.com/lessons/why-should-you-read-crime-and-punishment-alex-gendler)（冒頭30秒） | 約15分 | ①音声だけでシャドーイング→②あとでスクリプトを確認→③もう1度シャドーイング |
 | 金  | 🗣 クイック発音チャレンジ   | [Rachel’s English: “How to Pronounce ‘Can’ and ‘Can’t’”](https://www.youtube.com/watch?v=9Z2GZ5rPH7w)                                          | 約15分 | ①動画で発音ルール確認→②まねして発音→③2語の区別がつくか自分でチェック   |
 | 土  | 🧘‍♀️ 自由・リラックス英語 | [YouTube: Kurzgesagt（好みの動画を選ぶ）](https://www.youtube.com/c/inanutshell)                                                                         | 約15分 | ①自由に英語に触れる（字幕OK）②内容が気に入れば1フレーズだけ真似してみる  |
@@ -53,6 +53,66 @@
 - 気づきメモ（音の変化・抑揚など）
 
 # 記録
+
+## 2025/07/31 Dictation
+
+[BBC 6 Minute English: “Touring bands and climate change”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-200402) 
+
+### 1
+Hello this is 6 minute english ...
+I'm Neil. And I'm Rob.
+I've been reading about protecting environment and ... eating less meat and driving my car less too.
+And flying less also help reduce air polution
+Right, flying and driving less is good way to combat climate change because it reduces carbon footprint
+.. the amount of carbon dyoxide ... atmosphere ... results of daily activities.
+The idea of reducing carbon emission is ... on musical industries too
+band and tour artists ... around the world generates large carbon footprints.
+so recently some musical groups like massive attacks? green day start to think about reduce the impact of tours to environment 
+green day, what a good name to environmentally friendly
+
+### 2
+
+Hello this is 6 minute english from BBC learning english 
+I'm Neil. And I'm Rob.
+Rob, I've been reading about the ways to protect environment and I've decided to eat less meat and maybe drive my car less too.
+Ah, good for you Neil, and flying less can also help reduce air polution
+Right, flying and driving less are two good ways to combat climate change because they reduce carbon footprints, the amount of carbon dyoxide, CO2, released into atmosphere as a result of daily activities.
+The idea of reducing carbon emission is catching on? musical industries too
+bands and artists go to tour around the world generates large carbon footprints
+So, recently, some music groups like massive attack and green day started thinking about reducing the impact of ...
+Ha, green day, what a good name for a band to be environmentally friendly.
+
+### 3
+Hello this is 6 minute english from BBC learning english 
+I'm Neil. And I'm Rob.
+Rob, I've been reading about ways to protect the environment and I've decided to eat less meat and maybe drive my car less too.
+Ah, good for you Neil, and flying less can also help reduce air polution
+Right, flying and driving less are two good ways to combat climate change because they reduce your carbon footprint.
+It's the amount of carbon dyoxide or CO2, released into the atmosphere as a result of everyday activities.
+The idea of reducing carbon emission is catching on? musical industries too
+bands and artists go to tour around the world generate large carbon footprints
+So, recently, some music groups like massive attack and green day started thinking about ways to reduce the impact of tours having on environment
+Ha, green day, what a good name for a band trying to be environmentally friendly.
+
+### 答え合わせ
+
+- polution -> pollution
+  - スペル
+- it's the amount -> that's the amount
+  - 弱形で聞き取りづらい
+- dyoxide -> dioxide
+  - スペル
+- of *your* everyday activities
+- carbon *emissions*
+- catching on in the music industries
+- bands and artists *who go on tour* around the world
+  - "who"がフーじゃなくてユーみたいな発音で聞き取れず
+- the impact their tours are having on the environment
+  - 関係代名詞の省略形なのと、"their"がエアくらいで聞き取りづらい
+
+### 語句
+
+- catch on：浸透する
 
 ## 2025/07/29 shadowing
 
