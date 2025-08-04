@@ -54,6 +54,34 @@
 
 # 記録
 
+## 2025/08/04 Shadowing
+
+[TED-Ed: “Why should you read Crime and Punishment?”](https://ed.ted.com/lessons/why-should-you-read-crime-and-punishment-alex-gendler)
+
+### スムーズに真似できなかったフレーズ
+
+- in what would become one of the best-known works of Russian literature
+  - "one of the"がかなり速い
+- Russian literature
+  - RとLの差で下が絡まる
+- serialized in a
+  - "in a" が速い
+  - serializedが読みづらい
+
+### Vocabulary
+
+- in cold blood：冷酷に
+- serialized：連載される
+- literary magazine：文芸誌
+  - literary：文芸の
+    - Note: literallyとの区別
+
+### “自分のものにした英文”リスト
+
+### 気づきメモ（音の変化・抑揚など）
+
+- スピードが早く難しい、口が回らない
+
 ## 2025/07/31 Dictation
 
 [BBC 6 Minute English: “Touring bands and climate change”](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-200402) 
