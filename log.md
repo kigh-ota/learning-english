@@ -56,6 +56,101 @@
 
 ## 2025/08/11 Dictation
 
+Why Do We Yawn?
+https://www.youtube.com/watch?v=3jmp5yF5rYM
+
+### 1
+
+Hey Squeeks, how's it going?
+Is it ? stuffy here
+Wow, I've been yawning a lot lately
+I wonder figure out why.
+Scientsits ? why we yawn 
+we yawn to cool down our brain because sometimes they can get too warm
+Wow, it's a very wired idea
+But it also makes a lot of sense because when people tend to yawn, ? tired, right?
+And scientists found that our brains are warmer than usual when we are tired and ? before going to sleep
+so that's when sleepy time yawn comes in
+your brain gets warm also when generally it gets warm
+so that's why you ? yawn if it's a summer day or if you are in a hot and stuffy room
+squeeks, that's why I might be yawn(?)
+on the other hand, we yawn when we focus on something
+because we think more clearly ? cool brain
+maybe you are settling down and reading a book ? comes to yawn
+it doesn't mean you are bored of a book
+you just your body ? ready to read
+
+### 2
+
+Hey Squeeks, how's it going?
+Is it just mere? it's stuffy here
+Wow, I've been yawning a lot lately
+I wonder figure out why.
+Scientsits aren't told? actually why we yawn 
+but a lot of then think that we yawn to cool down our brain because sometimes they can get too warm
+Wow, it's a very wired idea
+But it also makes a lot of sense if you think about when people tend to yawn
+you yawn when you are tired, right?
+And scientists found that our brains are a little warmer than usual when we are tired and right before going to sleep
+so that's when a sleepy time yawn comes in
+your brain can get also warm when it is generally just warm
+so that's why you you yawn more if it's a summer day or if you are in a hot and stuffy room
+hei squeeks, that's might be why I just yawned
+on the other hand, you might also yawn when we focus on something
+because you think more clearly with a cool brain
+maybe you are settling down to read a book and then a yawn just comes out
+it doesn't mean you are bored of a book
+you just your body might make ?? getting your brain ready to read
+
+### 3
+
+Hey Squeeks, how's it going?
+Is it just meres it??
+oh it's stuffy here
+Wow, I've been yawning a lot lately
+I wonder figure out why.
+Scientsits actually aren't totally sure why we yawn 
+but a lot of them think that we yawn to cool down our brain because sometimes they can get too warm
+Wow, it's a very wired idea
+But it also makes a lot of sense if you think about when people tend to yawn
+you yawn a lot when you are tired, right?
+And scientists found that our brains are a little warmer than usual when we are tired and right before we go to sleep
+so that's when a sleepy time yawn comes in
+your brain can get also warm if you are generally just warm
+so that's why you might yawn more if it's a summer day or if you are in a hot and stuffy room
+hei squeeks, that's might be why I just yawned
+on the other hand, you might also yawn when we need to focus on something
+because you think more clearly with a cooler brain
+maybe you are settling down to read a book and a yawn just comes out
+it doesn't mean you are bored of a book
+it just mean your body might make your brain getting ready to read
+
+### 答え合わせ
+
+- Squeeks -> Squeaks（まあどうでもよいか）
+- stuffy here -> stuffy in here
+  - inがだいぶ弱い
+- I wonder figure out -> I want to figure out
+- Schientists found -> scientists *have* found
+  - have弱い
+- we go to sleep -> we fall asleep
+  - g と f が案外聞きわけづらい
+- when a sleepy time yawn -> when *that* sleepy time yawn
+- bored of a book -> bored of *the* book
+- it just might be your body's way of getting your brain ready to read
+
+### 語句
+
+- is it just me. or ...?：自分だけがそう感じてるのか、それとも...？
+- stuffy：むっとする、風通し悪い
+- sleepytime：（子ども向けやカジュアル）お休みの時間
+
+### 感想
+
+- BBCよりも早口
+
+## 2025/08/10 Dictation
+
 [Spill the tea](https://www.bbc.co.uk/learningenglish/features/the-english-we-speak/ep-200608)
 https://www.youtube.com/watch?v=bNCPg8roZEM
 
