@@ -54,6 +54,84 @@
 
 # 記録
 
+## 2025/08/11 Dictation
+
+[Spill the tea](https://www.bbc.co.uk/learningenglish/features/the-english-we-speak/ep-200608)
+https://www.youtube.com/watch?v=bNCPg8roZEM
+
+### 1
+
+Hello and welcome to the English we speak
+with me Feifei, and me Roy!
+sounds different, we are not recording in normal studio during the coronavirus
+
+Roy, have you heard about rob?
+No, what about rob?
+well, you know ??? long sleep ?? recently.
+? because ?? other night ??? with his friend.
+well, he ? lost ? day ? on a skateboard on his arm
+feifei, he is really embarrased on that, you shouldn't ?? 
+I know, but you always ?? spill the tea.
+Oh, you spilled some tea ? recording? 
+that's dangerous around laptops and microphones
+no, spilling the tea means gossip.
+I'm going to spill the tea more ?? examples.
+
+- Britishで聞きにくい印象あり
+- 結構ゆっくりなんだが、、
+
+### 2
+
+Hello and welcome to the English we speak
+with me Feifei, and me Roy!
+We may sound a little different
+that's because we are not able to record in our normal studios during the coronavirus outbreak.
+Roy, have you heard about rob?
+No, what about rob?
+well, you know ??? long sleep t-shirt recently.
+it's because he went the other night ??? with his friends
+well, he ? lost ? day ? on a skateboard on his arm
+feifei, he is probably really embarrased about that, you shouldn't gossip.
+I'm not
+But you always love it to spill the tea.
+Oh, you spilled some tea? while recording?
+that's dangerous when we are surrounded by laptops and microphones.
+no roy, spilling the tea means to gossip.
+I'm going to spill the tea some more right after ?? examples.
+
+### 3
+
+Hello and welcome to the English we speak
+with me Feifei, and me Roy!
+We may sound a little different
+that's because we are not able to record in our normal studios during the coronavirus outbreak.
+Roy, have you heard about rob?
+No, what about rob?
+well, you know that rob's ??? long sleep t-shirt recently.
+it's because the other night he went out with his friends
+well, he lost ? day tattoo ??? on his skateboard on his arm
+feifei, he is probably really embarrased about that, you shouldn't gossip.
+I'm not
+But you always love it when I spill the tea.
+Oh, you spilled some tea? while recording?
+that's dangerous when we are surrounded by laptops and microphones.
+no roy, spilling the tea means to gossip.
+I'm going to spill the tea some more right after these examples.
+
+### 答え合わせ
+
+- Rob's been wearing a long-sleeve t-shirt
+  - Rob's been が spin に聞こえて混乱
+  - sleeve が sleep に聞こえた
+- he went out with SOME friends
+- he lost a dare：負けて罰ゲームで、みたいな意味
+  - 知らない表現
+  - dareがdayに聞こえた
+- now he's got a tattoo of panda on a skateboard
+  - He's got a が go to みたいに聞こえた
+  - pandaが聞き取れず
+- embarrased -> embarrassed スペル
+
 ## 2025/08/04 Shadowing
 
 [TED-Ed: “Why should you read Crime and Punishment?”](https://ed.ted.com/lessons/why-should-you-read-crime-and-punishment-alex-gendler)
