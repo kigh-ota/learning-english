@@ -14,6 +14,16 @@
 | 土  | 🧘‍♀️ 自由・リラックス英語 | [YouTube: Kurzgesagt（好みの動画を選ぶ）](https://www.youtube.com/c/inanutshell)                                                                         | 約15分 | ①自由に英語に触れる（字幕OK）②内容が気に入れば1フレーズだけ真似してみる  |
 | 日  | 🔁 おさらい or 休息    | 今週使った素材のうち、気に入ったものを「もう一度だけやる」 or ゆっくり休む                                                                                                        | 約15分 | ①再ディクテ or 再シャドーイング→②上達実感 or 難しさ再確認      |
 
+
+| 日 | タスク         | 教材タイトル（シリーズ名）                                                                             | 内容                         |
+| - | ----------- | ----------------------------------------------------------------------------------------- | -------------------------- |
+| 1 | 🎧 ディクテーション | **“Are you drinking enough water?”**（BBC – 6 Minute English）                              | 1分だけ再生→書き取り→スクリプト確認＆弱形チェック |
+| 2 | 📢 シャドーイング  | **“Why you need a good night’s sleep”**（BBC – 6 Minute English）                           | 最初の30秒だけ繰り返し真似→録音→比較       |
+| 3 | 🎧 ディクテーション | **“How to Lower Your Risk of Dementia Starting in Middle Age”**（VOA – Health & Lifestyle） | 1分だけ再生→書き取り→音の省略に注目        |
+| 4 | 📢 シャドーイング  | **“Learning multiple languages”**（BBC – 6 Minute English）                                 | 最初の30秒で発音・イントネーション模倣       |
+| 5 | 🎧 ディクテーション | **“How to Make Small Talk”**（VOA – Everyday Grammar）                                      | 1分だけ再生→書き取り→会話特有の速さに慣れる    |
+
+
 ## ✍️【2】ディクテーションのやり方（週3）
 
 3分程度の音声を選ぶ（TED-Ed, 6 Minute Englishなど）
@@ -53,6 +63,74 @@
 - 気づきメモ（音の変化・抑揚など）
 
 # 記録
+
+## 2025/08/12 Dictation
+
+Are you drinking enough water
+https://www.bbc.co.uk/learningenglish/features/6-minute-english_2025/ep-250102
+
+### 1
+
+Hello this is six minute English from BBC Learning English
+I'm Phil and I'm Beth
+Nowadays ?? people having bottle ?? drink enough
+How much water do you drink a day Phil?
+I don't know
+Maybe about a liter?
+Do you know how much water you should drink a day?
+I think it is probably about two liters?
+A number many people ? is two liters a day, everyone needs to drink some water
+about a half of our body is made up of ?
+how much ? stay healthy
+that is what we discuss in this program, and with some new useful vocabularies as well
+I am speaking of new vocabularies, you can download all ? worsheet ? exercise ? learning english .com
+
+### 2
+
+Hello this is six minute English from BBC Learning English
+I'm Phil and I'm Beth
+Nowadays I often see people having water bottle to make sure they drink enough
+How much water do you drink a day Phil?
+I don't know
+Maybe about a liter?
+Do you know how much water you should drink a day?
+I think it's probably about two liters?
+Well, a number many people have heard is two liters a day
+of course everyone needs to drink some water, about a half of human body is made up of it
+exactly how much water do we need to stay healthy
+that is what we discuss in this program, along with some new useful vocabularies as well
+I am speaking of vocabulary, remember you can download all the new words and phrases on this program  worsheet exercises help to learn them on our website, learning english .com
+
+### 3
+
+Hello this is six minute English from BBC Learning English
+I'm Phil and I'm Beth
+Nowadays I often see people carrying water bottle with them to make sure they drink enough
+How much water do you drink a day Phil?
+I don't know
+Maybe about a liter?
+Do you know how much water you should drink a day?
+I think it's probably about two liters?
+Well, a number many people have heard is two liters a day
+of course everyone needs to drink some water, about a half of human body is made up of it
+but, exactly how much water do we need to stay healthy
+that is what we discuss in this program, along with some new useful vocabularies as well
+I am speaking of vocabulary, remember you can download all the new words and phrases on this program plus worsheet exercises help to learn them on our website, learning english .com
+
+### 答え合わせ
+
+- bottle -> bottles
+- liter -> litre (Bri.)
+- *over* half of human body
+  - 聞き取りづらい発音
+- That's what we'll be discussing
+- useful *new* *vocabulary*
+- *And* speaking of vocabulary
+
+### 感想
+
+- 集中できない、単に寝不足か
+- 難易度は昨日のVOAより低い印象
 
 ## 2025/08/11 Dictation
 
